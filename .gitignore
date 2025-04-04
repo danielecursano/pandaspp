@@ -1,0 +1,65 @@
+# macOS system files
+.DS_Store
+
+# Byte-compiled / virtual environments
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pdb
+*.so
+*.egg-info/
+*.egg
+
+# Virtual environment
+venv/
+.env/
+.venv/
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Logs and database
+*.log
+*.sqlite3
+*.db
+
+# Compiled files
+*.o
+*.out
+*.class
+*.swp
+
+# VSCode settings
+.vscode/
+
+# IDE files
+.idea/
+*.iml
+
+# Coverage reports
+.coverage
+coverage.xml
+htmlcov/
+
+# Build artifacts
+build/
+dist/
+*.spec
+
+# Testing files
+.tox/
+.nox/
+pytest_cache/
+
+# Git metadata
+*.orig
+
+# Security / Credentials
+*.pem
+*.key
+*.crt
+*.pfx
+
