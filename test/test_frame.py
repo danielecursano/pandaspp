@@ -1,7 +1,7 @@
 import unittest
 from pandas.testing import assert_frame_equal
 from pandas import DataFrame
-from src.frame import DataFramePlus  # Replace with your actual module path
+from dataframeplus.frame import DataFramePlus  # Replace with your actual module path
 
 class TestDataFramePlus(unittest.TestCase):
 
